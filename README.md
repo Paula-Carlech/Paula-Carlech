@@ -1,5 +1,6 @@
 # Olá, me chamo Paula Carlech! 
-### Bem vindo ao meu perfil GitHub 👋 Sou apaixonada por desenvolvimento web e estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades.
+### Bem vindo ao meu perfil GitHub 👋 
+### Sou apaixonada por desenvolvimento web e estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades.
 
 - ## Ferramentas e Tecnologias:
 
@@ -18,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/>
 </div>
           
-  ## Estou aprendendo:
+- ## Estou aprendendo:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
@@ -27,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 </div>
 
-  ## Contatos:
+- ## Contatos:
 
   #### Você pode me encontrar nas seguintes redes sociais:
 
