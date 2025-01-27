@@ -2,12 +2,6 @@
 ### Welcome to my GitHub profile 👋 
 ### I'm passionate about web development and constantly learning and exploring new technologies to improve my skills.
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paula-Carlech&show_icons=true&theme=radical" alt="Paula's GitHub stats" />
-  </a>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Paula-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
   <img align="center" alt="Paula-Composer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
