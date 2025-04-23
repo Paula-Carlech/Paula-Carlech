@@ -9,7 +9,7 @@
 ### Welcome to my GitHub profile 👋  
 ### I'm passionate about web development and constantly learning and exploring new technologies to improve my skills.
 
-### 🚀 Minhas Skills
+### 🚀 My Skills
 
 <div align="center" style="display: inline_block"><br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
